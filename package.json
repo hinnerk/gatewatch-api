@@ -1,0 +1,18 @@
+{
+    "name":"gatewatch-api",
+    "description":"GateWatch (http://gatewatch.de) API client for node",
+    "version":"0.1.0",
+    "author":"Hinnerk Haardt",
+    "keywords":["gatewatch"],
+    "dependencies":{
+        "request":"2.9.x"
+    },
+    "engines":{
+        "node":"0.6.x"
+    },
+    "main": "./lib/gatewatch",
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/hinnerk/gatewatch.git"
+    }
+}
