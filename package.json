@@ -14,6 +14,6 @@
     "main": "./lib/gatewatch",
     "repository": {
         "type": "git",
-        "url": "http://github.com/hinnerk/gatewatch.git"
+        "url": "http://github.com/hinnerk/gatewatch-api.git"
     }
 }
