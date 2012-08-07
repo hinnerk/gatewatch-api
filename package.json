@@ -1,7 +1,7 @@
 {
     "name":"gatewatch-api",
     "description":"GateWatch (https://gatewatch.de) API client for node",
-    "version":"0.2.2",
+    "version":"0.2.3",
     "author":"Hinnerk Haardt",
     "email": "hinnerk@randnotizen.de",
     "keywords":["gatewatch"],
